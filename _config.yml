@@ -29,7 +29,7 @@ url: "malremeithi" # the base hostname & protocol for your site, e.g. http://exa
 theme: minima
 plugins:
   - jekyll-feed
-
+markdown: kranmdown
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
